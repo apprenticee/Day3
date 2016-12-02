@@ -1,0 +1,50 @@
+1)
+Apple Pay: Why the ACCC rejected the banks colluding to bargain with Apple
+
+The Australian Competition and Consumer Commission (ACCC) is planning to deny a petition by the Commonwealth Bank of Australia (CBA), Westpac, National Australia Bank (NAB) and Bendigo and Adelaide Bank to collectively bargain with and boycott Apple on Apple Pay.
+
+Justifying the decision, ACCC chairman Rod Sims said that the likely benefits of allowing the banks to collectively bargain did not outweigh the potential negative effects.
+
+The banks are desperate to get access to Apple phones, not least as ANZ recently claimed a surge in applications for their credit and debit cards after striking a deal with Apple.
+
+This shift in consumer behaviour could potentially reduce the customer base of the other banks, simultaneously increasing both ANZ's customer base and the use of its payments services.
+
+But Apple imposes fees and restrictions that the banks currently find prohibitive.
+The banks wanted to bargain with Apple over two key issues.
+
+The first is access to the Near-Field Communication (NFC) controller in iPhones, which would enable them to offer their own digital wallets to iPhone customers (in direct competition with Apple's digital wallet), bypassing Apple Pay.
+
+The second is to remove the restriction Apple imposes on banks, preventing them from passing on fees that Apple charges for the use of its digital wallet.
+
+It's all about negotiating power
+
+At the moment only consumers with certain cards issued by ANZ, American Express and card issuers using Cuscal Ltd as their collective negotiator, are able to use Apple Pay.
+
+It's been reported that ANZ agreed to share with Apple some of the fee it charges to process payments in exchange for access to Apple Pay.
+
+If the ACCC had decided in favour of the banks they could have, in theory, used their combined negotiating power to strike an even better deal with Apple.
+
+Not only would they have been bargaining from a stronger position, they could also have threatened to boycott Apple Pay for up to three years.
+
+The ACCC argued this have would reduced the competitive tension between the banks in their individual negotiations with Apple, which could also reduce the competition to supply mobile payment services for iPhones.
+
+The threat of a boycott could also mean a significant period of uncertainty and would result in decreased choice for the consumers whose banks are involved.
+=======vocabulary=========
+collude
+petition
+boycott: to refuse to buy, use or take part in sth as a way of protesting
+protest
+surge
+strike a deal with 和...达成一笔交易
+prohibitive
+1. so high that it prevents people from buying sth or doing sth 价格高 负担不起
+2. preventing people from doing sth by law 
+
+impose
+1. ~ sth (on/upon sth/sb) 推行，采用（规章制度）；强行实施 
+   to introduce a new law, rule, tax, etc;
+2. ~ sth (on/upon sb/sth) 迫使；把强加于 
+   to force sb/sth to have to deal with sth that is difficult or unpleasant
+
+issuer 发行商
+boycott
