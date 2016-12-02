@@ -29,6 +29,24 @@ Not only would they have been bargaining from a stronger position, they could al
 The ACCC argued this have would reduced the competitive tension between the banks in their individual negotiations with Apple, which could also reduce the competition to supply mobile payment services for iPhones.
 
 The threat of a boycott could also mean a significant period of uncertainty and would result in decreased choice for the consumers whose banks are involved.
+
+The other digital wallet options for the banks are Android Pay and Samsung Pay, both of which are available in Australia, but the iPhone popularity with consumers makes Apple Pay very attractive to both consumers and banks.
+
+The ACCC may have decided against allowing the banks to bargain collectively, as this would also have set a precedent for any future disputes between the banks and their service providers.
+
+The banks may have over-played their hand by also threatening a boycott against Apple.
+
+Reduced competition could have knock-on effects
+
+Another deciding factor in the ACCC's decision was that digital wallets/mobile payments are still in their infancy in Australia and consumers are already using their contactless cards to do "tap and go" payments.
+
+A rash decision now to allow collective bargaining with Apple could distort the mobile payment market and further delay the adoption of this technology.
+
+The use of tap and go payments has risen greatly in recent years, accounting for up to 75 per cent of all Visa transactions.
+
+This has caused many consumers to question, exactly what the advantages are of digital wallets over contactless cards.
+
+The absence of an obvious advantage over other payment methods like contactless cards has slowed the adoption of mobile payments in Australia. Any reduction in competition could stall this even longer.
 =======vocabulary=========
 collude
 petition
@@ -48,3 +66,6 @@ impose
 
 issuer 发行商
 boycott
+competitive tension
+presedent n.先例 
+knock-on effects 撞击效应
